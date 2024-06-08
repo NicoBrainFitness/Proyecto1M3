@@ -226,5 +226,5 @@ document.getElementById("emailForm").addEventListener("submit", function(event) 
 
 ## Evidencia de Lannding Page funcionando el Live Server
 <img src = "Landing Page.png">
-
+link: https://nicobrainfitness.github.io/Proyecto1M3/
 Este proyecto fue creado por [José Nicolás R.].
