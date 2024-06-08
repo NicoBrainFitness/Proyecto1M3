@@ -5,7 +5,7 @@ El proyecto consiste en realizar una landing page (página de aterrizaje), en la
 # Prototipado Simple para definir como hacer Landing Page para Brain Fitness Chile
 
 Este es un proyecto inicia con un propotipado simple utilizando el archivo Prototipado_simple.drawio, con el cual se realiza una estructura de como deberia ser el landing page.
-
+<img src = "https://github.com/NicoBrainFitness/Proyecto1M3/blob/main/imagen propotipado simple.png">
 
 # Brain Fitness Chile - Landing Page
 
